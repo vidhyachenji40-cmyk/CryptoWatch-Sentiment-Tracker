@@ -1,8 +1,6 @@
 # 🚀 CryptoWatch: Real-Time Market Sentiment & Prediction Tracker
 
 ## 📌 Project Overview
-This project is part of the **Foundations of Data** module in the **IIT Patna / Masai School AI & Machine Learning Program**. 
-
 It demonstrates a full data pipeline: from fetching live market data via REST APIs to performing trend analysis and predictive modeling using Scikit-Learn. It bridges the gap between traditional backend development and modern AI/ML workflows.
 
 ## 🛠️ Tech Stack & Skills
